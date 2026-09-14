@@ -1,11 +1,7 @@
 https://github.com/Dev-moe-kyawaung/moekyawaung-developer-portfolio-125
 premium ultra readme file
 
-I couldn't fetch the live repository contents directly, but based on the info you shared (Vite + TypeScript build, MIT license, security policy, `src` folder, deployed on Vercel) [1], here's a premium, "ultra" README tailored to your portfolio's Android/GTFS/kinetic-typography positioning.
 
-## Premium README
-
-```markdown
 <div align="center">
 
 # ⚡ Moe Kyaw Aung — Developer Portfolio
